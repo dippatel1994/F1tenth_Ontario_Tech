@@ -153,3 +153,6 @@ echo "Installation complete!"
 echo "Please setup your Catkin Workspace"
 tput sgr0
 
+#echo "invoking catkin workspace setup script'
+#sh ./setupCatkinWorkspace.sh
+
